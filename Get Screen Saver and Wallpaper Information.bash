@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Title:	Set Screen Saver and Keep User's Wallpaper
+# Version:	2023.12.26
+# Author:	https://github.com/itjimbo
+
 loggedInUser=$(/usr/bin/stat -f%Su /dev/console)
 
 wallpaper_store_path="/Users/${loggedInUser}/Library/Application Support/com.apple.wallpaper/Store/Index.plist"
