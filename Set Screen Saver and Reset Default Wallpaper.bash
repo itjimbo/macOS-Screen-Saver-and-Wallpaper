@@ -14,7 +14,7 @@ function getDefinedVariables() {
 	screenSaverBase64='INSERT_BASE64_CODE_HERE'
 
 	# Insert the output of the wallpaperBase64 variable from the 'Get Screen Saver and Wallpaper Settings' script.
-	wallpaperBase64='INSERT_BASE64_CODE_HERE'
+	wallpaperBase64='YnBsaXN0MDDRAQJXYXNzZXRJRF8QJEZFODc2NDg5LUNCRDUtNDc5Qi1BOEYwLTFCNjdGMDc0MUNFQQgLEwAAAAAAAAEBAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAA6'
 	
 	# Do not edit beyond this point...
 	getStarterVariables
