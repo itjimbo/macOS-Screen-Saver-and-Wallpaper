@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Title:	Set Screen Saver and Keep User's Wallpaper
+# Title:	Get Screen Saver and Wallpaper Information
 # Version:	2023.12.26
 # Author:	https://github.com/itjimbo
 
