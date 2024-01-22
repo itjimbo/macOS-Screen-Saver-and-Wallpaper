@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Title:	Set Screen Saver and Keep User's Wallpaper
-# Version:	2023.12.26
+# Title:	Set Screen Saver and Wallpaper
+# Version:	2024.01.22
 # Author:	https://github.com/itjimbo
 
 # Notes:	This script is based on scripts provided by user Pico (https://github.com/PicoMitchell) on the Mac Admins Slack channel. 
